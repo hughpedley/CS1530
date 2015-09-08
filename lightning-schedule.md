@@ -8,5 +8,5 @@
 ## Leonard Aronson
 
 * Adhyaksa Pribadi
-
+* Hugh Pedley
 ## Day 3 (Thu 19 NOV)
